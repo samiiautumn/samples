@@ -4,6 +4,6 @@
   "auxilary_samples": ["auxilary_samples/MO_MK_150_drum_loop_disturbing_halftime_break.wav", "auxilary_samples/SOPHIE_fx_05.wav", "auxilary_samples/UMRU_132_drum_loop_baile_metal.wav", "auxilary_samples/UMRU_snare_glass.wav"],
   "sp": ["sp/SOPHIE_snare_43.wav", "sp/SOPHIE_texture_01.wav"],
   "textures": ["textures/ESM_Robot_Computer_Processor_Malfunction_Sci_Fi_Robotic_Glitch_Morph_Mechanism_Texture.wav", "textures/FF_ET_whoosh_breath_low.wav", "textures/T_TSTN_128_texture_loop_obscura.wav"],
-  "w2d": "w2d/jvck_want2Dance_loop140.mp3",
+  "w2d": ["w2d/jvck_want2Dance_loop140.mp3"],
   "ww": ["ww/SOPHIE_fx_03.wav", "ww/SOPHIE_kick_dry_15.wav", "ww/kicks1.wav", "ww/melloop.wav"]
 }
