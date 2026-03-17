@@ -1,5 +1,4 @@
 {
-  "_base": "https://raw.githubusercontent.com/samiiautumn/samples/main/",
   "aux": ["aux/25_Audiotent_-_UNF_-_Noise_Rise.wav", "aux/MO_XP1_120_fx_fall_hihat_slip.wav", "aux/SwordWhipFencing_BW.59421.wav", "aux/Whip_Whoosh_BW.11030.wav"],
   "auxilary_samples": ["auxilary_samples/MO_MK_150_drum_loop_disturbing_halftime_break.wav", "auxilary_samples/SOPHIE_fx_05.wav", "auxilary_samples/UMRU_132_drum_loop_baile_metal.wav", "auxilary_samples/UMRU_snare_glass.wav"],
   "sp": ["sp/SOPHIE_snare_43.wav", "sp/SOPHIE_texture_01.wav"],
