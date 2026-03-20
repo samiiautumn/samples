@@ -6,10 +6,10 @@
     "/aux/Whip_Whoosh_BW.11030.wav"
   ],
   "auxiliary": [
-    "/auxilary_samples/MO_MK_150_drum_loop_disturbing_halftime_break.wav",
-    "/auxilary_samples/SOPHIE_fx_05.wav",
-    "/auxilary_samples/UMRU_132_drum_loop_baile_metal.wav",
-    "/auxilary_samples/UMRU_snare_glass.wav"
+    "/auxiliary/MO_MK_150_drum_loop_disturbing_halftime_break.wav",
+    "/auxiliary/SOPHIE_fx_05.wav",
+    "/auxiliary/UMRU_132_drum_loop_baile_metal.wav",
+    "/auxiliary/UMRU_snare_glass.wav"
   ],
   "sp": [
     "/sp/SOPHIE_snare_43.wav",
